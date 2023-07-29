@@ -6,13 +6,13 @@ Open the command prompt
 
 
 
-#For the MD5 checksum:
+# For the MD5 checksum:
 
 cd into the folder that holds the file you want to checksum
 
 certutil -hashfile <file> MD5
 
-#For the SHA256 checksum:
+# For the SHA256 checksum:
 
 certutil -hashfile C:\Users\user1\Downloads\software.zip SHA256
 
