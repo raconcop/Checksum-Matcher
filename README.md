@@ -1,4 +1,4 @@
-# MD5-Checksum-Matcher
+# Checksum-Matcher
 A small program where you input two checksums and see if they match
 
 
