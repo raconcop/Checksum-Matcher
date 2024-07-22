@@ -1,8 +1,8 @@
 # Checksum-Matcher
-A small program where you input two checksums and see if they match
+A program where you input two checksums and checks to see if they match
 This is important when you are downloading programs and are not sure if the download has been tampered.
 The hashing insures that the program you have downloaded is reputable and the intended files the provider has.
-Always do a check on the hash when you are downloading a large file, program that uses system commands or anything suspicous. 
+Always do a check on the hash when you are downloading a large file, programs that uses system commands or anything suspicous. 
 
 Open the command prompt
 
